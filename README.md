@@ -24,7 +24,7 @@
 
 - Programming Language: Python
 
-- Libraries & Frameworks: Scikit-learn, TensorFlow/PyTorch, Pandas, NumPy, Matplotlib, Seaborn
+- Libraries & Frameworks: Scikit-learn, Scipy, Pandas, NumPy, Matplotlib, Seaborn
 
 - Development Tools: Jupyter Notebook, VS Code, Git
 
@@ -36,7 +36,7 @@ Through this project, I aim to:
 
 - Enhance my skills in data preprocessing and feature engineering.
 
-- Understand various machine learning models and their applications.
+- Understand various machine learning models and their applications (KNN, K-means, Naive Bayes, Random Forest, SVM, PCA, Regression,...)
 
 - Develop an end-to-end machine learning workflow.
 
